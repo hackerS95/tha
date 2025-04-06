@@ -2,7 +2,6 @@
   "name": "Therapiehunde Ausbildung",
   "short_name": "THA Campus",
   "start_url": "https://sauerlandpfoten.de/login",
-  "scope": "https://sauerlandpfoten.de/",
   "display": "standalone",
   "background_color": "#0A111A",
   "theme_color": "#13222F",
